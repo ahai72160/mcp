@@ -1,4 +1,5 @@
 # ScreenshotOne MCP Server
+[![smithery badge](https://smithery.ai/badge/@ahai72160/mcp)](https://smithery.ai/server/@ahai72160/mcp)
 
 An official implementation of an [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) server for [ScreenshotOne](https://screenshotone.com).
 
@@ -13,6 +14,14 @@ An official implementation of an [MCP (Model Context Protocol)](https://modelcon
 -   `render-website-screenshot`: Render a screenshot of a website and returns it as an image.
 
 ## Usage
+
+### Installing via Smithery
+
+To install ScreenshotOne Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ahai72160/mcp):
+
+```bash
+npx -y @smithery/cli install @ahai72160/mcp --client claude
+```
 
 ### Build it
 
